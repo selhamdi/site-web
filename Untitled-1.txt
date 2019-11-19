@@ -1,0 +1,63 @@
+<html>
+   <head>
+         <title>Ma page web </title>
+         <meta charset="utf-8"/>
+
+    </head>
+           <title> Menu Simple horizontl </title>
+	        <meta charset="utf-8/>
+	        <link  rel= "stylesheet"  href="menu.css/>
+          
+    <body>
+             <body bgcolor="yellow">
+     <nav>
+	 <ul>
+	       <li><a href ="blog.html">Notre Blog</a></li>
+	       <li><a href ="shop.html">le shop</a></li>
+	       <li><a href ="apropos.html">A Proopos</a></li>
+	       <li><a href ="contact.html">cantact </a></li>
+     </nav>
+     </ul>
+
+      <center>><img src="html.png" width="450px" height="450" alt="thurmbnail HTML tutorial"/ </center>
+      <input type = "text">
+	  <h3 >  la Définition </h3>
+	  <p align="center">C’est	un langage permettant d’écrire de l’hypertexte, d’où son nom. HTML permet également de structurer sémantiquement et logiquement et de mettre en forme le contenu des pages, d’inclure des ressources multimédias dont des images, des formulaires de saisie et des programmes informatiques.</p>
+
+
+<h3> Sommaire </h3>  
+<h4>  1)Dénominations</h4> 
+<h4>  2)Évolution du langage </h4> 
+<h4>  3)Description de HTML </h4> 
+<h4>  4) Interopérabilité de HTML </h4> 
+<h4>  5) Notes et références </h4>
+
+    <a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language"> plus des détails sur html </a>
+	<h4> les tableaux </h4
+	
+	<hr>
+	<table border="1">
+	
+	<tr>
+	<th> Editeur de text </th>
+	<th> logiciels de graphisme </th>
+	</tr>
+	<tr>
+	<th> Notpad++ de text </th>
+	<th> photoshop cc </th>
+	</tr>
+     </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ </html>
